@@ -1,5 +1,5 @@
 # Vaccine Notifier in Georgia
-A small Python script, designed to be ran in background and notify you, once there's an empty slot for the Sinnovac Vaccine Appointment in the capital - Tbilisi.
+A small Python script, designed to be ran in background and notify you, once there's an available slot for the Sinnovac Vaccine Appointment in the capital - Tbilisi.
 
 How to use:
 - Install Python3
