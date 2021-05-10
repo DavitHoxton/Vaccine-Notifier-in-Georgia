@@ -44,7 +44,3 @@ while run == 0:
         print ('Server is busy ! - Attempt #' + str(i))
         time.sleep(5)
         continue
-
-    
-#print (response.json())
-
